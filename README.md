@@ -9,6 +9,8 @@ USN : 2402608040
 
 ## Mission Index
 Below is the directory of all completed missions. Click on any mission link to inspect its dedicated `README.md` lab report
+
+
 **[MISSION 0](mission-00-setup/README.md) Setup details, tools and repository information.
 **[MISSION 1](mission-01-computer-basics/README.md) IPOS, hardware, software and everyday systems.
 **[MISSION 2](mission-02-terminal/README.md) Terminal activities and command learning.
