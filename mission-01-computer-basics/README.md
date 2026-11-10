@@ -93,6 +93,6 @@ Another important learning was that computer-based systems are not limited to la
 none
 
 ## 6. Commit Details
-- **Commit Message**: "ADDED ALL THE MAIN FILES"
+- **Commit Message**: "Added everyday computer system examples and IPOS workflow notes"
 - **Pushed to GitHub**: Yes (Verified visible on GitHub repository)
 
