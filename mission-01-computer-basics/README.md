@@ -91,7 +91,6 @@ Another important learning was that computer-based systems are not limited to la
 
 ## 5. Difficulties Faced
 none
-
 ## 6. Commit Details
 - **Commit Message**: "Added everyday computer system examples and IPOS workflow notes"
 - **Pushed to GitHub**: Yes (Verified visible on GitHub repository)
