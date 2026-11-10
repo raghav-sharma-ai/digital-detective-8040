@@ -1,6 +1,6 @@
 # MISSION 0 - Repository and Workspace Setup
 
-## 1. Task/Objective
+## 1. Task
 Create a correctly named public GitHub repository and set up the required folder and file structure for all assignment missions
 
 ## 2. Work Completed
@@ -8,7 +8,7 @@ Create a correctly named public GitHub repository and set up the required folder
 - Built all mission folders *mission-00-setup* to *mission-08final--report* and the *evidence/* folder, and their respective *README.md* files.
 - Added content to root *README.md* and linked the local folder to the public GitHub repository.
 
-## 3. Commands / Tools Used
+## 3. Commands
 - **Terminal (CLI)**: Used commands like *mkdir* and *touch* to create directories and empty Markdown files.
 - **Python 3**: Verified installation using *python --version*.
 - **Git**: Verified version using *git --version*, initialized the local project using *git init*, staged files *git add .*, created a commit *git commit -m " "*, creted a bracnh by *git branch -M main*, then added the repo *git remote add origin https://github.com/raghav-sharma-ai/digital-detective-8040.git* and pushed to GitHub *git push -u origin main*.
