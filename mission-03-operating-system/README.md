@@ -74,10 +74,6 @@ I used `pwd` to check my current directory. I also used `ls -l README.md` to vie
 | `w` — Write | It allows a user to change or edit a file. | Editing a README file. |
 | `x` — Execute | It allows a user to run a file as a program. For a directory, it allows access to items inside it. | Running a script. |
 
-**Owner permissions observed:**
-
-[Replace this line with the first three permission characters you saw in your `ls -l README.md` output. For example, `rw-` means the owner can read and write the file, but cannot execute it.]
-
 ### Task 3.4 — Operating-system responsibilities
 
 An operating system manages the computer's hardware and provides services to applications. It helps the computer work properly and allows users to run programs.
