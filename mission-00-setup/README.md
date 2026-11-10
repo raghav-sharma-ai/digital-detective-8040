@@ -23,7 +23,6 @@ Create a correctly named public GitHub repository and set up the required folder
 
 ## 5. Difficulties Faced
 none
-
 ## 6. Commit Details
 - **Commit Message**: "ADDED ALL THE MAIN FILES"
 - **Pushed to GitHub**: Yes (Verified visible on GitHub repository)
