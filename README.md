@@ -144,7 +144,3 @@ digital-detective-8040/
 The `evidence` folder may contain selected screenshots or command outputs, with personal and sensitive information removed.
 
 ---
-
-**Digital Detective — Diwali Independent Learning Assignment**
-
-*Learning by exploring, experimenting and building.*
