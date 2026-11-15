@@ -23,3 +23,8 @@ Below is the directory of all completed missions. Click on any mission link to i
 
 ## Work & Commit Methodology
 Each mission in this repository was tackled sequentially. Every mission folder contains its own detailed `README.md` documentation, and each mission was individually saved, committed to Git with a distinct commit message, and pushed to GitHub before moving on to the next mission.
+
+## My Learning
+During this assignment, I learned how computers work and how to use the Terminal.
+I also learned about operating systems, Python programs, number systems and Git.
+I understood how Git helps track changes and how GitHub helps developers share and work on projects.
